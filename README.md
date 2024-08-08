@@ -38,8 +38,8 @@ The Random Forest model emerged as the top performer, demonstrating high accurac
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/black-friday-sales-prediction.git
-    cd black-friday-sales-prediction
+    git clone https://github.com/KYGokul/Black-Friday-Sales-Prediction.git
+    cd Black-Friday-Sales-Prediction
     ```
 
 ## Conclusion and Future Considerations
